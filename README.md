@@ -1,30 +1,34 @@
-### Hi there, it's Nguyễn Hữu Thành profile.  👋
-I'm studying E-Commerce at UIT. (University of Information Technology, Vietnam national university, HCMC)
-** Where I'm headed:**
-My main focus lies in backend development, specifically utilizing Node.js and its robust ecosystem. I'm excited to explore the possibilities of building efficient and scalable server-side applications that power engaging and dynamic user experiences.
+### Hi there, it's Nguyễn Hữu Thành. :raising_hand_man:  :penguin: 
+:man_student: I'm studying E-Commerce at **UIT**. 
+_(University of Information Technology, Vietnam national university, HCMC)_
 
-My tech stack:
+**Where I'm headed:**
 
-Backend: Node.js, Express.js, RESTful APIs, MongoDB
-Version control: Git, GitHub
-Other tools: Docker, Postman
-** Exploring and learning:**
+My main focus lies in **backend development**, specifically utilizing Node.js and its robust ecosystem. 
+
+I'm excited to explore the possibilities of building efficient and scalable server-side applications that power engaging and dynamic user experiences.
+
+**My tech stack:**
+* Backend: Node.js, Express.js, RESTful APIs, MongoDB
+* Version control: Git, GitHub
+* Other tools: Docker, Postman
+**Exploring and learning:**
 
 I'm a firm believer in continuous learning and growth. I'm always on the lookout for new technologies and frameworks to broaden my skillset, with a particular interest in:
 
-TypeScript for robust and maintainable code
-Cloud platforms like AWS and GCP for scalable deployments
-Microservices architecture for modular and efficient development
-** Let's connect!**
++ TypeScript for robust and maintainable code
 
-I'm always eager to network with fellow developers, learn from others, and contribute to open-source projects. Feel free to reach out and connect with me on LinkedIn or GitHub!
++ Cloud platforms like AWS and GCP for scalable deployments
 
-** Links:**
++ Microservices architecture for modular and efficient development
 
+**Let's connect!**
 
-GitHub: [[Your GitHub URL]](https://github.com/PipooPenguin)
-Facebook: [[Your LinkedIn URL]](https://www.facebook.com/profile.php?id=100008663411324)
-** I'm excited to embark on this journey and build something great! Let's code together!**
+GitHub: [github profile](https://github.com/PipooPenguin)
+
+Facebook: [profile info](https://www.facebook.com/profile.php?id=100008663411324)
+
+_**I'm excited to embark on this journey and build something great! Let's code together!**_
 <!--
 **PipooPenguin/PipooPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
