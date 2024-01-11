@@ -1,4 +1,4 @@
-### Hi there, it's Nguyễn Hữu Thành. :raising_hand_man:  :penguin: 
+<h1> Hi there, it's Nguyễn Hữu Thành. :raising_hand_man:  :penguin: </h1>
 :man_student: I'm studying E-Commerce at **UIT**. 
 _(University of Information Technology, Vietnam national university, HCMC)_
 
@@ -9,14 +9,16 @@ My main focus lies in **backend development**, specifically utilizing Node.js an
 I'm excited to explore the possibilities of building efficient and scalable server-side applications that power engaging and dynamic user experiences.
 
 **My tech stack:**
-* Backend: Node.js, Express.js, RESTful APIs, MongoDB
-* Version control: Git, GitHub
+* Backend:<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />, Express.js, RESTful APIs, <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+* Version control: <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />, GitHub
 * Other tools: Docker, Postman
 **Exploring and learning:**
 
 I'm a firm believer in continuous learning and growth. I'm always on the lookout for new technologies and frameworks to broaden my skillset, with a particular interest in:
 
-+ TypeScript for robust and maintainable code
++ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
++ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
 
 + Cloud platforms like AWS and GCP for scalable deployments
 
